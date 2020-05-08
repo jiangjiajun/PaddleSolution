@@ -11,7 +11,7 @@
 - 点击Windows系统左下角的Windows图标，打开：所有程序->Anaconda3/2（64-bit）->Anaconda Prompt      
 - 在命令行中执行下述命令
 ```cmd
-# 创建一个名为mypaddle的环境，指定python版本是3.5
+# 创建一个名为mypaddle的环境，指定python版本是3.7
 conda create -n mypaddle python=3.7
 # 创建好后，使用activate进入环境
 conda activate mypaddle
