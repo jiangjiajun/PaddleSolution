@@ -12,7 +12,7 @@
 - 在命令行中执行下述命令
 ```cmd
 # 创建一个名为mypaddle的环境，指定python版本是3.5
-conda create -n mypaddle python=3.5
+conda create -n mypaddle python=3.7
 # 创建好后，使用activate进入环境
 conda activate mypaddle
 python --version
